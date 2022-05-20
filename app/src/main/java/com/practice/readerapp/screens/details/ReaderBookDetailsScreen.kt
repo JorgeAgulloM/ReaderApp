@@ -1,1 +1,1 @@
-package com.practice.readerapp.screens.detailsimport androidx.compose.runtime.Composable@Composablefun BookDetailsScreen() {}
+package com.practice.readerapp.screens.detailsimport androidx.compose.runtime.Composableimport androidx.navigation.NavController@Composablefun BookDetailsScreen(navController: NavController) {}
