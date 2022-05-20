@@ -1,1 +1,1 @@
-package com.practice.readerapp.screens
+package com.practice.readerapp.screensimport androidx.compose.runtime.Composable@Composablefun ReaderSplashScreen() {}
