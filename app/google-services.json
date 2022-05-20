@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534204562238",
+    "project_id": "readerapp-fa2ac",
+    "storage_bucket": "readerapp-fa2ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534204562238:android:5a0cb6f5130832710a8a6f",
+        "android_client_info": {
+          "package_name": "com.practice.readerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534204562238-m86no0sn6c8aqouhham6br1i7clr50r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiImSm6abtba6ALB0VxB5JLlVYurLqIxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534204562238-m86no0sn6c8aqouhham6br1i7clr50r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
