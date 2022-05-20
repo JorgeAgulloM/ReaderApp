@@ -14,8 +14,12 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.ktx.Firebase
 import com.practice.readerapp.ui.theme.ReaderAppTheme
+import dagger.hilt.android.AndroidEntryPoint
 import kotlin.math.log
 
+
+
+@AndroidEntryPoint
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
