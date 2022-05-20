@@ -63,7 +63,7 @@ fun ReaderApp() {
         color = MaterialTheme.colorScheme.background,
         modifier = Modifier
             .fillMaxSize()
-            .padding(46.dp)
+            .padding(8.dp)
     ) {
         Column(
             verticalArrangement = Arrangement.Center,
