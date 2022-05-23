@@ -1,0 +1,1 @@
+package com.practice.readerapp.modeldata class MBook(    var id: String? = null,    var title: String? = null,    var author: String? = null,    var notes: String? = null,/*    var description: String? = null,    var image: String? = null,    var url: String? = null,    var isFavorite: Boolean = false*/)
