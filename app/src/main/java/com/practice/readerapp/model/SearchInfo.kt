@@ -1,0 +1,1 @@
+package com.practice.readerapp.modeldata class SearchInfo(    val textSnippet: String)
