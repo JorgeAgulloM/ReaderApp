@@ -1,0 +1,1 @@
+package com.practice.readerapp.utilsimport com.google.firebase.Timestampimport java.text.DateFormatfun formatDate(timestamp: Timestamp): String =    DateFormat.getDateInstance().format(timestamp.toDate()).toString().split(",")[0]
